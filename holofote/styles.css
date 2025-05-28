@@ -1,8 +1,10 @@
 body{
     background-color: beige;
 }
+
 h1{text-align: center;
 }
+
 h2{
     text-align: center;
 }
@@ -19,7 +21,8 @@ nav{margin-top: 30px;
     background-color: coral;
     text-align: center;
     margin-top: 0%;
-    margin-bottom: 1%;
+    margin-bottom: 0%;
+    padding-bottom: 1%;
 }
 
 .holofote {
@@ -27,7 +30,7 @@ nav{margin-top: 30px;
 }
 
 .margem-em-baixo {
-    margin-bottom: 100px;
+    margin-bottom: 10px;
 }
 .semmargem .row {
     margin: 0px;
